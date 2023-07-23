@@ -1,5 +1,4 @@
-## JIYEON HWANG 
-### Frontend Developer 
+<div align=center>안녕하세요:) 프론트엔드를 공부하고 있는 황지연입니다!<br> 새로운 도전을 사랑하며 항상 열정적으로 임하고 있습니다. </div>
 
 <!--
 **ghkdwldus0807/ghkdwldus0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
