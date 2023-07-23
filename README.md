@@ -1,4 +1,5 @@
-### Hi there 👋
+### JIYEON HWANG 
+## Frontend Developer 
 
 <!--
 **ghkdwldus0807/ghkdwldus0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
