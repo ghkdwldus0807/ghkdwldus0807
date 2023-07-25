@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
 </div>
 <br><br><br>
-<div align=center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdwldus0807&layout=compact&theme=defualt)﻿</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdwldus0807&layout=compact)](https://github.com/anuraghazra/github-readme-stats)﻿
 
 
 
