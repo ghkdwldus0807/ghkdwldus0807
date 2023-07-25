@@ -16,8 +16,7 @@
   <h3>🍀현재 공부 중이에요!</h3>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
 </div>
-<br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdwldus0807&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ghkdwldus0807/ghkdwldus0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
