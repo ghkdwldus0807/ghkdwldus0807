@@ -18,7 +18,7 @@
 </div>
 <br><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdwldus0807&layout=compact&theme=default)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdwldus0807)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ghkdwldus0807/ghkdwldus0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
