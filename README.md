@@ -16,8 +16,8 @@
 <br><br>
 
 ### 🪪Certificate
-* #### OPIC IH (English) - 2024
-* #### TOEIC 835 - 2022
+* #### OPIC : IH (English) - 2024
+* #### TOEIC : 835 - 2022
 
 <br><br>
   
