@@ -1,25 +1,18 @@
 <div align=center>안녕하세요🙌 𝘽𝙖𝙘𝙠𝙚𝙣𝙙와 𝘿𝙖𝙩𝙖 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨를 공부하고 있는 황지연입니다!<br> 항상 열정적으로, 모든 것에 최선을 다하고 있습니다. </div>
-<br><br>
+<hr/>
+<br/>
 
-### 🏫Education 
-* #### Industrial and Information Systems Engineering, Seoul National University of Science and Technology
-* #### IT Convergence Software, Seoul National University of Science and Technology (Dual Major)
-* #### University of Hradec Králové , Czech Republic (Exchange Study, Faculty of  Informactics and management )
-<br><br>
 
-### 🏆Activities & Awards
-* #### Fintech Intellectual Property Competition, SeoulTech (Bronze Award🥉 - 2023)
-* #### Discovery Semester Programming Competition (Bronze Award 🥉 - 2022)
-* #### Executive of RCY in SeoulTech - 2022 ~ 2023
-* #### Design Thinking Program - 2022
-* #### Mini-Bear(Best Education for Applied Research) Program - 2021
-<br><br>
+* 산학프로젝트(LG전자) B2B 사업 환경 분석을 위한 머신러닝 기반의 정보 처리 분석 방법 및 시스템 개발 - FullStack 개발 
+* 서울과학기술대학교 [IXLAB](http://ixlab.seoultech.ac.kr/) 학부연구생 (24.03 ~ 24.09)
+
 
 ### 🪪Certificate
-* #### OPIC : IH (English) - 2024
-* #### TOEIC : 835 - 2022
-
+* OPIC : IH (English)
+* 정보처리기사
+* SQLD
 <br><br>
+
   
 <div align=left> <h3>🖥️Tech Stack</h3><br> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
@@ -44,17 +37,4 @@
 
 
 
-<!--
-**ghkdwldus0807/ghkdwldus0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
